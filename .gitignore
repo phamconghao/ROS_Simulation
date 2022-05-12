@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+Learning_Ros/build
+Learning_Ros/devel
+Learning_Ros/git
+Learning_Ros/.vscode
+Learning_Ros/.git
+Learning_Ros/.catkin_workspace
+Learning_Ros/src/teleop_keyboard_omni3
+Le
