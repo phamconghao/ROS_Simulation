@@ -11,5 +11,5 @@
   ```
   3. Third step
   ```
-  You press button name "2D Nav Goal" on "Tools Panel" and then you choose an any point on the map. Finally, you have to wait the robot go to point which you chose. Good luck!! :v
+  You press button name "2D Nav Goal" on "Tools Panel" in screen Rviz application and then you choose an any point on the map. Finally, you have to wait the robot go to point which you chose. Good luck!! :v
   ```
